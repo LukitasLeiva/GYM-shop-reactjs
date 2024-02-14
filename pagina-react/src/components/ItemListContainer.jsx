@@ -1,6 +1,6 @@
-const ItemListContainer = ({mensaje}) => {
+const ItemListContainer = () => {
     return (
-        <div className="alert alert-warning d-flex justify-content-center" role="alert">{mensaje}</div>
+        <div className=""></div>
     )
 }
 
